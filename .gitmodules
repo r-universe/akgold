@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "stickr"]
+	path = stickr
+	url = https://github.com/akgold/stickr
+	shallow = true
+	registered = true
